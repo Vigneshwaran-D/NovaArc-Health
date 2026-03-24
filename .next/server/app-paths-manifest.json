@@ -1,0 +1,15 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/[...slug]/route": "app/api/[...slug]/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/(app)/claims/page": "app/(app)/claims/page.js",
+  "/(app)/claims/[claimId]/page": "app/(app)/claims/[claimId]/page.js",
+  "/(app)/dashboard/page": "app/(app)/dashboard/page.js",
+  "/(app)/queues/page": "app/(app)/queues/page.js",
+  "/(app)/edi/page": "app/(app)/edi/page.js",
+  "/(app)/rpa/page": "app/(app)/rpa/page.js",
+  "/(app)/upload/page": "app/(app)/upload/page.js",
+  "/(app)/workflows/page": "app/(app)/workflows/page.js"
+}
